@@ -15,3 +15,14 @@
  */
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+.navbar-default {
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+}
+
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #fff;
+}
